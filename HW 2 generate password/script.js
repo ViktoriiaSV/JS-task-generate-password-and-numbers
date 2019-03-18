@@ -27,44 +27,5 @@ function randArray(array) {
 
 alert(passRandom(8));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
-// // function passRandom (num) {
-// //
-// //     // let stringPass = '';
-// //
-// //     let random = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L,' 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k,' 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
-// //
-// //     let randomPass = [];
-// //
-// //     for (let i = 0; i <= num; i++){
-// // randomPass += Math.random()*random.length;
-// //
-// // // stringPass += random[i];
-// //
-// //         console.log(randomPass);
-// //     }
-// //
-// //
-// //
-// // }
-// // passRandom(8);
-
-// !@#$%^&*'
-
-//let regExp = /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*])$/;
-
 //функція, яка генерує випадковий пароль.
 //function(8, дозволити маленькі букви, дозволити великі букви, дозволити числа, не дозволити спец символи)
